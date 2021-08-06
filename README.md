@@ -6,3 +6,8 @@ I am currently studying to become a Full Stack Developer with [Code Institute.](
 
 So far, I have learnt so much in terms of language basics, high level concepts and how to execute a project to the end. However, I am only at the start of my journey, there is still so much to discover.
 
+## Stack
+![](https://raw.githubusercontent.com/edent/SuperTinyIcons/19993af1ed90ef2ed5164771c30c9630cf47336c/images/svg/html5.svg)
+![](https://raw.githubusercontent.com/edent/SuperTinyIcons/19993af1ed90ef2ed5164771c30c9630cf47336c/images/svg/css3.svg)
+![](https://raw.githubusercontent.com/edent/SuperTinyIcons/19993af1ed90ef2ed5164771c30c9630cf47336c/images/svg/javascript.svg)
+
