@@ -1,4 +1,5 @@
-### Hi there 👋
+# A little bit about ✨ _Lydia_ ✨
+
 
 <!--
 **lmw95/lmw95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
