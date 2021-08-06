@@ -8,7 +8,7 @@ So far, I have learnt so much in terms of language basics, high level concepts a
 
 ## Stack
 ### Confident
-![](https://github.com/edent/SuperTinyIcons/blob/master/images/svg/html5.svg)
+<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/html5.svg" width="100">
 ![](https://github.com/edent/SuperTinyIcons/blob/master/images/svg/css3.svg)
 ![](https://github.com/edent/SuperTinyIcons/blob/master/images/svg/javascript.svg)
 ![](https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg)
