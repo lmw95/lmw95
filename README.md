@@ -8,21 +8,21 @@ So far, I have learnt so much in terms of language basics, high level concepts a
 
 ## Stack
 ### Confident
-<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/html5.svg" width="100"> <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/css3.svg" width="100">
-<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/javascript.svg" width="100">
-<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" width="100">
-<img src="https://github.com/devicons/devicon/blob/master/icons/bulma/bulma-plain.svg" width="100">
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="100">
-<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="100">
-<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/sublimetext.svg" width="100">
+<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/html5.svg" width="100"> <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/css3.svg" width="50">
+<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/javascript.svg" width="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" width="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/bulma/bulma-plain.svg" width="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="50">
+<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/sublimetext.svg" width="50">
 
 ## In progress
-<img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" width="100"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" width="100">
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="100">
-<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="100">
+<img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" width="50"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" width="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="50">
 
 ## Still to come
-<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/python.svg" width="100"><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="100">
-<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/react.svg" width="100">
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="100">
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="100">
+<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/python.svg" width="50"><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="50">
+<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/react.svg" width="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="50">
