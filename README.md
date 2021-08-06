@@ -8,7 +8,7 @@ So far, I have learnt so much in terms of language basics, high level concepts a
 
 ## Stack
 ### Confident
-<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/html5.svg" width="100"> <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/css3.svg" width="50">
+<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/html5.svg" width="50"> <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/css3.svg" width="50">
 <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/javascript.svg" width="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" width="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/bulma/bulma-plain.svg" width="50">
