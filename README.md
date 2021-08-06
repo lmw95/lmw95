@@ -18,8 +18,8 @@ So far, I have learnt so much in terms of language basics, high level concepts a
 <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/sublimetext.svg" width="100">
 
 ## In progress
-<img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg">
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
+<img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" width="100">
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" width="100">
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="100">
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="100">
 
