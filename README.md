@@ -18,12 +18,12 @@ Feel free to follow me!
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="50">
 <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/sublimetext.svg" width="50">
 
-## In progress
+### In progress
 <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" width="50"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" width="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="50">
 
-## Still to come
+### Still to come
 <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/python.svg" width="50"><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="50">
 <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/react.svg" width="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="50">
