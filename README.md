@@ -20,14 +20,18 @@ Feel free to follow me!
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="50">
 <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/python.svg" width="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="50">
-<img src="https://github.com/devicons/ba75593fdf8d66496676a90cbf127d721f73e961/!SVG/materializecss.svg"
+<img src="https://github.com/vorillaz/devicons/blob/master/!SVG/materializecss.svg" width="50">
 
 ### In progress
 <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" width="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="50">
+<img src="https://github.com/vorillaz/devicons/blob/master/!SVG/aws.svg" width="50">
+<img src="https://github.com/vorillaz/devicons/blob/master/!SVG/postgresql.svg" width="50">
 
-### Still to come
-<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/react.svg" width="50">
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="50">
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="50">
+### On the list to learn
+<img src="https://github.com/vorillaz/devicons/blob/master/!SVG/react.svg" width="50">
+<img src="https://github.com/vorillaz/devicons/blob/master/!SVG/mysql.svg" width="50">
+<img src="https://github.com/vorillaz/devicons/blob/master/!SVG/nodejs.svg" width="50">
+<img src="https://github.com/vorillaz/devicons/blob/master/!SVG/sass.svg" width="50">
+<img src="https://github.com/vorillaz/devicons/blob/master/!SVG/less.svg" width="50">
