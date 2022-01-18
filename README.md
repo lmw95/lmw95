@@ -8,26 +8,23 @@ Feel free to follow me!
 
 ## Stack
 ### Current stack
-<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/html5.svg" width="50">
-<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/css3.svg" width="50">
-<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/javascript.svg" width="50">
-<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" width="50">
+<img src="https://github.com/vorillaz/devicons/blob/master/!SVG/html5.svg" width="50">
+<img src="https://github.com/vorillaz/devicons/blob/master/!SVG/css3.svg" width="50">
+<img src="https://github.com/vorillaz/devicons/blob/master/!SVG/javascript_1.svg" width="50">
+<img src="https://github.com/vorillaz/devicons/blob/master/!SVG/jquery_logo.svg" width="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/bulma/bulma-plain.svg" width="50">
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50">
-<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="50">
-<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/sublimetext.svg" width="50">
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" width="50">
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="50">
-<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/python.svg" width="50">
+<img src="https://github.com/vorillaz/devicons/blob/master/!SVG/git.svg" width="50">
+<img src="https://github.com/vorillaz/devicons/blob/master/!SVG/sublime.svg" width="50">
+<img src="https://github.com/vorillaz/devicons/blob/master/!SVG/bootstrap.svg" width="50">
+<img src="https://github.com/vorillaz/devicons/blob/master/!SVG/mongodb.svg" width="50">
+<img src="https://github.com/vorillaz/devicons/blob/master/!SVG/python.svg" width="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="50">
 <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/materializecss.svg" width="50">
 
 ### In progress
-<img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" width="50">
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="50">
-<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="50">
 <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/aws.svg" width="50">
 <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/postgresql.svg" width="50">
+<img src="https://github.com/vorillaz/devicons/blob/master/!SVG/visualstudio.svg" width="50">
 
 ### On the list to learn
 <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/react.svg" width="50">
