@@ -8,7 +8,8 @@ Feel free to follow me!
 
 ## Stack
 ### Current stack
-<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/html5.svg" width="50"> <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/css3.svg" width="50">
+<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/html5.svg" width="50">
+<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/css3.svg" width="50">
 <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/javascript.svg" width="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" width="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/bulma/bulma-plain.svg" width="50">
@@ -19,6 +20,7 @@ Feel free to follow me!
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="50">
 <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/python.svg" width="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="50">
+<img src="https://github.com/devicons/ba75593fdf8d66496676a90cbf127d721f73e961/!SVG/materializecss.svg"
 
 ### In progress
 <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" width="50">
