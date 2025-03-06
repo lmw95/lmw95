@@ -1,7 +1,7 @@
 # A little bit about me.
 Hello! I'm Lydia. Welcome to my GitHub profile.
 
-I am currently studying to become a Full Stack Developer with [Code Institute.](https://codeinstitute.net/) My previous job came to a halt during the UK'S COVID-19 lockdown, so I decided it was time for a change and started my new career journey. 
+I am currently a Software Developer in the printing manufacturing industry.
 
 Feel free to follow me!
 
